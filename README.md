@@ -20,7 +20,7 @@ A C++-based Command-Line Interface (CLI) project that simulates a basic file man
 
 ---
 
-## 🛠️ How to Build
+## How to Build
 
 1. Open the project in **Visual Studio 2019 or 2022**
 2. Make sure C++17 is enabled (`/std:c++17`)
